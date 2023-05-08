@@ -14,6 +14,20 @@ Currently, I am a:
 - Computational geometry research
 - Game AI research and logic programming
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mercedes-sandu&theme=tokyonight&private=true)](https://git.io/streak-stats)
+<p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=mercedes-sandu&theme=tokyonight&private=true" />
+    </a>
+</p>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mercedes-sandu&layout=compact&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mercedes-sandu&layout=compact&count_private=true&theme=tokyonight" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cs,unity,java,python,cpp,unreal,react,blender,html,css,js,discord&theme=dark" />
+    </a>
+</p>
