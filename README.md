@@ -14,6 +14,6 @@ Currently, I am a:
 - Computational geometry research
 - Game AI research and logic programming
 
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mercedes-sandu&show_icons=true&count_private=true&hide=stars,prs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mercedes-sandu&theme=tokyonight&private=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mercedes-sandu&layout=compact&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
