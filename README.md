@@ -11,6 +11,7 @@ Currently, I am a:
 - Video game development
 - Web development
 - App development
+- UI/UX and design
 - Computational geometry research
 - Game AI research and logic programming
 
