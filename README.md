@@ -2,7 +2,7 @@
 
 ### I'm Mercedes
 Currently, I am a:
-- Junior at Northwestern University pursing a BA in Mathematics, BA/MS in Computer Science, and a minor in chemistry
+- Rising senior at Northwestern University pursing a BA in Mathematics, BA/MS in Computer Science, and a minor in chemistry
 - Mathematics and Computer Science researcher
 - Software Engineer at [Overture Games](https://www.overture.games/)
 - IT Intern at [Abbott](https://www.abbott.com/)
