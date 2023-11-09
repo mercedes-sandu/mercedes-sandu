@@ -4,7 +4,7 @@
 Currently, I am a:
 - Rising senior at Northwestern University pursing a BA in Mathematics, BA/MS in Computer Science, and a minor in chemistry
 - Mathematics and Computer Science researcher
-- Lead Frontend Engineer at [Overture Games](https://www.overture.games/)
+- Video game and web developer
 - Incoming ITPDP at [Abbott](https://www.abbott.com/)
 
 ### My areas of study and work include:
