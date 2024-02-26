@@ -14,6 +14,9 @@ Currently, I am a:
 - UI/UX and design
 - Computational geometry research
 - Game AI research and logic programming
+- 2D art and animation
+- 3D modeling and animation
+- Music arrangement
 
 <p align="center">
     <a href="https://git.io/streak-stats">
