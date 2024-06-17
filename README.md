@@ -2,7 +2,7 @@
 
 ### I'm Mercedes
 Currently, I am a:
-- Senior at Northwestern University pursing a BA in Mathematics, BA/MS in Computer Science, and a minor in chemistry
+- Graduate of Northwestern University who obtained a BA in Mathematics, BA/MS in Computer Science, and a minor in chemistry
 - Mathematics and Computer Science researcher
 - Video game and web developer
 - Incoming ITPDP at [Abbott](https://www.abbott.com/)
