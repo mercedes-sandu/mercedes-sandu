@@ -1,22 +1,22 @@
-# Hello World!
+# hello world!
 
-### I'm Mercedes
-Currently, I am a:
-- Graduate of Northwestern University who obtained a BA in Mathematics, BA/MS in Computer Science, and a minor in chemistry
-- Mathematics and Computer Science researcher
-- Video game and web developer
-- Incoming ITPDP at [Abbott](https://www.abbott.com/)
+### i'm mercedes
+currently, i am a:
+- graduate of northwestern university who obtained a BA in mathematics, BA/MS in computer science, and a minor in chemistry
+- mathematics and computer science researcher
+- video game and web developer
+- incoming itpdp at [abbott](https://www.abbott.com/)
 
-### My areas of study and work include:
-- Video game development
-- Web development
-- App development
-- UI/UX and design
-- Computational geometry research
-- Game AI research and logic programming
-- 2D art and animation
-- 3D modeling and animation
-- Music arrangement
+### my areas of study and work include:
+- video game development
+- web development
+- app development
+- ui/ux and design
+- computational geometry research
+- game ai research and logic programming
+- 2d art and animation
+- 3d modeling and animation
+- music arrangement
 
 <p align="center">
     <a href="https://git.io/streak-stats">
