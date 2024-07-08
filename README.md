@@ -2,10 +2,10 @@
 
 ### i'm mercedes
 currently, i am a:
+- design and frontend dev itpdp at [abbott](https://www.abbott.com/)
+- video game and web developer
 - graduate of northwestern university who obtained a BA in mathematics, BA/MS in computer science, and a minor in chemistry
 - mathematics and computer science researcher
-- video game and web developer
-- incoming itpdp at [abbott](https://www.abbott.com/)
 
 ### my areas of study and work include:
 - video game development
