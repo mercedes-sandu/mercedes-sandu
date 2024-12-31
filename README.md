@@ -2,7 +2,7 @@
 
 ### i'm mercedes
 currently, i am a:
-- design and frontend developer itpdp at [abbott](https://www.abbott.com/)
+- data science itpdp at [abbott](https://www.abbott.com/)
 - project manager and game developer at [goob games](https://github.com/goob-games)
 - video game and web developer
 - graduate of northwestern university who obtained a BA in mathematics, BA/MS in computer science, and a minor in chemistry
