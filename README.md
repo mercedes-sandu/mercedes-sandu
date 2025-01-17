@@ -33,6 +33,6 @@ currently, i am a:
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cs,unity,latex,java,python,cpp,unreal,react,svelte,mui,firebase,blender,figma,html,css,scss,tailwind,js,ts,vite,vitest,md,discord,github,&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=cs,unity,latex,java,python,r,cpp,unreal,react,svelte,mui,firebase,blender,figma,html,css,scss,tailwind,js,ts,vite,vitest,md,discord,github,&theme=dark" />
     </a>
 </p>
