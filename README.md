@@ -2,7 +2,7 @@
 
 ### i'm mercedes
 currently, i am a:
-- data science itpdp at [abbott](https://www.abbott.com/)
+- data scientist itpdp at [abbott](https://www.abbott.com/)
 - project manager and game developer at [goob games](https://github.com/goob-games)
 - programmer and artist on side project at [waking oni studio](https://wakingoni.com/)
 - video game and web developer
@@ -34,6 +34,6 @@ currently, i am a:
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cs,unity,latex,java,python,r,cpp,unreal,react,svelte,mui,firebase,blender,figma,html,css,scss,tailwind,js,ts,vite,vitest,md,discord,github,&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=cs,unity,godot,latex,java,python,azure,r,cpp,unreal,react,svelte,mui,firebase,blender,figma,html,css,scss,tailwind,js,ts,vite,vitest,md,discord,bots,github,&theme=dark" />
     </a>
 </p>
