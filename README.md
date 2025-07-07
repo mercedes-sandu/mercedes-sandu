@@ -34,6 +34,12 @@ currently, i am a:
 </p>
 
 <p align="center">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mercedes-sandu&theme=tokyo-night" />
+    </a>
+</p>
+
+<p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=cs,unity,godot,latex,java,python,azure,r,cpp,unreal,react,svelte,mui,firebase,blender,figma,html,css,scss,tailwind,js,ts,vite,vitest,md,discord,bots,github,&theme=dark" />
     </a>
