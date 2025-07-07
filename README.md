@@ -2,8 +2,7 @@
 
 ### i'm mercedes
 currently, i am a:
-- data scientist itpdp at [abbott](https://www.abbott.com/)
-- project manager and game developer at [goob games](https://github.com/goob-games)
+- project manager itpdp at [abbott](https://www.abbott.com/)
 - chief operating officer, programmer, and artist at [waking oni studio](https://wakingoni.com/)
 - video game and web developer
 - graduate of northwestern university who obtained a BA in mathematics, BA/MS in computer science, and a minor in chemistry
@@ -14,11 +13,13 @@ currently, i am a:
 - web development
 - app development
 - ui/ux and design
+- data visualization
 - computational geometry research
 - game ai research and logic programming
 - 2d art and animation
 - 3d modeling and animation
 - music arrangement
+- project management and production
 
 <p align="center">
     <a href="https://git.io/streak-stats">
