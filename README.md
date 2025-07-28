@@ -3,7 +3,7 @@
 ### i'm mercedes
 currently, i am a:
 - project manager itpdp at [abbott](https://www.abbott.com/)
-- chief operating officer, programmer, and artist at [waking oni studio](https://wakingoni.com/)
+- chief operating officer and programmer at [waking oni studio](https://wakingoni.com/)
 - video game and web developer
 - graduate of northwestern university who obtained a BA in mathematics, BA/MS in computer science, and a minor in chemistry
 - mathematics and computer science researcher
